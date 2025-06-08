@@ -17,3 +17,5 @@ Analysis in mathematics is a vast and intricate field that deals with the rigoro
 
 * **[Dot Product](./dot_product.ipynb)** – or scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors), and returns a single number.
   - [Dot product - wikipedia](https://en.wikipedia.org/wiki/Dot_product)
+     <img src="/images/dot_product/triangle1.png" alt="Triangle 1" width="500" height="600">
+  
