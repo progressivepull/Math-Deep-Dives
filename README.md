@@ -29,4 +29,4 @@ $$
 \text{Weighted Sum} = x_1 \times w_1 + x_2 \times w_2 + \ldots + x_n \times w_n = \sum_{i=1}^n x_i w_i
 $$
 
-* **[Mean Squared Error Loss](mean_squared_error_loss.ipynb) (MSE) - is a commonly used metric to measure the average of the squares of the errors between predicted values and actual values. It is widely used in regression analysis and machine learning to evaluate how well a model's predictions match the actual data.
+* **[Mean Squared Error Loss](mean_squared_error_loss.ipynb)** (MSE) - is a commonly used metric to measure the average of the squares of the errors between predicted values and actual values. It is widely used in regression analysis and machine learning to evaluate how well a model's predictions match the actual data.
