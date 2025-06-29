@@ -51,3 +51,7 @@ $$
 *  **[Sigmoid Function](sigmoid_function.ipynb)** - The sigmoid function is a mathematical function that maps any input value (real number) to a value between 0 and 1. It's widely used in fields like machine learning and statistics, particularly in logistic regression and neural networks.
   
 $$\sigma(x) = \frac{1}{1 + e^{-x}}$$
+
+* **[Sigmoid Derivative](sigmoid_derivative.ipynb)** - It has an elegant mathematical property. It connects the function back to itself—its slope depends on its value at a given point. This simplicity is one of the reasons sigmoid derivatives are popular in neural networks for activation gradients during backpropagation.
+
+$$\sigma'(x) = \sigma(x) \cdot (1 - \sigma(x))$$
