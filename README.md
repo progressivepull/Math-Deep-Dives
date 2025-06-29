@@ -17,6 +17,8 @@ Analysis in mathematics is a vast and intricate field that deals with the rigoro
 
 * **[Dot Product](./dot_product.ipynb)** – or scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors), and returns a single number.
   - [Dot product - wikipedia](https://en.wikipedia.org/wiki/Dot_product)
+  - [Can any one explain why dot product is used in neural network and what is the intitutive thought of dot product](https://stats.stackexchange.com/questions/291680/can-any-one-explain-why-dot-product-is-used-in-neural-network-and-what-is-the-in)
+  - [The Dot Product — Topic 14 of Machine Learning Foundations - John Krohn - YouTube](https://www.youtube.com/watch?v=E5zLj5Mk28w)
 
 $$a ⋅ b = |a| × |b| × \cos(θ)$$
 
