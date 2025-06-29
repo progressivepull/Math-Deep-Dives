@@ -55,3 +55,5 @@ $$\sigma(x) = \frac{1}{1 + e^{-x}}$$
 * **[Sigmoid Derivative](sigmoid_derivative.ipynb)** - It has an elegant mathematical property. It connects the function back to itself—its slope depends on its value at a given point. This simplicity is one of the reasons sigmoid derivatives are popular in neural networks for activation gradients during backpropagation.
 
 $$\sigma'(x) = \sigma(x) \cdot (1 - \sigma(x))$$
+
+In the context of neural networks, the forward pass is the process of passing input data through the network to generate an output. It’s the first phase of computation, where the model makes a prediction based on current weights and biases.
