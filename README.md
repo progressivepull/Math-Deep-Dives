@@ -32,3 +32,4 @@ $$
 * **[Mean Squared Error Loss](mean_squared_error_loss.ipynb)** (MSE) - is a commonly used metric to measure the average of the squares of the errors between predicted values and actual values. It is widely used in regression analysis and machine learning to evaluate how well a model's predictions match the actual data.
 
 * **[Vector](vector.ipynb)** - A vector in math is a quantity that has both magnitude (length) and direction. It's a fundamental concept in geometry, physics, and engineering, and it's especially useful for describing movement, forces, and positions in space.
+*  **[Sigmoid Function](sigmoid_function.ipynb)** - The sigmoid function is a mathematical function that maps any input value (real number) to a value between 0 and 1. It's widely used in fields like machine learning and statistics, particularly in logistic regression and neural networks.
