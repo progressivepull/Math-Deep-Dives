@@ -17,7 +17,11 @@ Analysis in mathematics is a vast and intricate field that deals with the rigoro
 
 * **[Dot Product](./dot_product.ipynb)** – or scalar product is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors), and returns a single number.
   - [Dot product - wikipedia](https://en.wikipedia.org/wiki/Dot_product)
-     <img src="/images/dot_product/triangle1.png" alt="Triangle 1" width="500" height="600">
+
+$$a ⋅ b = |a| × |b| × \cos(θ)$$
+
+  <img src="/images/dot_product/triangle1.png" alt="Triangle 1" width="500" height="500">
+  
 * **[Natural Exponential](./natural_exponential.ipynb)** – The natural exponential function, written as `e^x` or `exp(x)`, is a special type of exponential function that uses the constant `e ≈ 2.71828` as its base. It’s called "natural" because it arises organically across a wide variety of mathematical and scientific contexts—especially when modeling continuous growth or decay processes. This function plays a foundational role in calculus, differential equations, and probability theory.
 
 * **[Computes The Weighted Sum](./computes_the_weighted_sum.ipynb)** - the process of calculating the total (sum) of a set of values, each multiplied by a corresponding weight. This is commonly known as the weighted sum or weighted average.
