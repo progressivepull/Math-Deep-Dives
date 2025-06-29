@@ -21,8 +21,12 @@ Analysis in mathematics is a vast and intricate field that deals with the rigoro
 $$a ⋅ b = |a| × |b| × \cos(θ)$$
 
   <img src="/images/dot_product/triangle1.png" alt="Triangle 1" width="500" height="500">
-  
+
 * **[Natural Exponential](./natural_exponential.ipynb)** – The natural exponential function, written as `e^x` or `exp(x)`, is a special type of exponential function that uses the constant `e ≈ 2.71828` as its base. It’s called "natural" because it arises organically across a wide variety of mathematical and scientific contexts—especially when modeling continuous growth or decay processes. This function plays a foundational role in calculus, differential equations, and probability theory.
+  
+$$
+f(x) = e^x
+$$
 
 * **[Computes The Weighted Sum](./computes_the_weighted_sum.ipynb)** - the process of calculating the total (sum) of a set of values, each multiplied by a corresponding weight. This is commonly known as the weighted sum or weighted average.
 
@@ -41,3 +45,5 @@ $$
 
 * **[Vector](vector.ipynb)** - A vector in math is a quantity that has both magnitude (length) and direction. It's a fundamental concept in geometry, physics, and engineering, and it's especially useful for describing movement, forces, and positions in space.
 *  **[Sigmoid Function](sigmoid_function.ipynb)** - The sigmoid function is a mathematical function that maps any input value (real number) to a value between 0 and 1. It's widely used in fields like machine learning and statistics, particularly in logistic regression and neural networks.
+  
+$$\sigma(x) = \frac{1}{1 + e^{-x}}$$
