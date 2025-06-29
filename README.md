@@ -56,4 +56,4 @@ $$\sigma(x) = \frac{1}{1 + e^{-x}}$$
 
 $$\sigma'(x) = \sigma(x) \cdot (1 - \sigma(x))$$
 
-In the context of neural networks, the forward pass is the process of passing input data through the network to generate an output. It’s the first phase of computation, where the model makes a prediction based on current weights and biases.
+* **[Forward Pass](forward_pass.ipynb)** - In the context of neural networks, the forward pass is the process of passing input data through the network to generate an output. It’s the first phase of computation, where the model makes a prediction based on current weights and biases.
