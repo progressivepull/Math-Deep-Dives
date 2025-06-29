@@ -45,7 +45,7 @@ $$
 \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
 $$ 
 
-[Mean Squared Error Loss-Square The Differences](mean_squared_error-square_the_differences.ipynb)
+     [Mean Squared Error Loss-Square The Differences](mean_squared_error-square_the_differences.ipynb)
 
 * **[Vector](vector.ipynb)** - A vector in math is a quantity that has both magnitude (length) and direction. It's a fundamental concept in geometry, physics, and engineering, and it's especially useful for describing movement, forces, and positions in space.
 *  **[Sigmoid Function](sigmoid_function.ipynb)** - The sigmoid function is a mathematical function that maps any input value (real number) to a value between 0 and 1. It's widely used in fields like machine learning and statistics, particularly in logistic regression and neural networks.
